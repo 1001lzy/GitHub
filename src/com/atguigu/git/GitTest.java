@@ -9,6 +9,7 @@ public class GitTest {
 		System.out.println("HelloWorld3!!!");
 		
 		System.out.println("github服务器!!!");
+		System.out.println("本地!!!");
 		
 	}
 	
